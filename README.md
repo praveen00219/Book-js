@@ -46,7 +46,7 @@ Book App is a responsive web application that allows users to browse and explore
 
 ## Live Demo
 
-- Check out live demo : [here]()
+- Check out live demo : [here](https://praveenbook.netlify.app/)
 
 ## API Reference
 
